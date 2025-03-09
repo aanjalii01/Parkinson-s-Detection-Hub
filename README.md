@@ -1,6 +1,7 @@
 # Parkinson's Disease Detection Using Machine Learning
 
-This project builds a Parkinson's disease detection system using machine learning techniques. It uses various algorithms to classify whether a patient is likely to have Parkinson's disease based on their health data. <br> Author--> ## *Anjali Sinha *
+This project builds a Parkinson's disease detection system using machine learning techniques. It uses various algorithms to classify whether a patient is likely to have Parkinson's disease based on their health data.<br>
+Author : Anjali Sinha
 
 ---
 
