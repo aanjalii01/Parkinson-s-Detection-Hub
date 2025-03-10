@@ -20,7 +20,7 @@ Author : Anjali Sinha
 - [License](#license)
 
 ---
-
+ 
 ## *Project Overview*
 
 This project detects Parkinson's disease using machine learning. It involves several steps, including preprocessing patient data, training a model using a labeled dataset, and using that model to predict whether new patients are likely to have Parkinson's disease.
